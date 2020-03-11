@@ -1,0 +1,1 @@
+{"uuid":"0bdc260e-0831-4030-a1d6-e072989e3af6","name":"futureloan","start":1583895780638,"stop":1583895802091,"children":["0596e4f2-3878-40ee-b26a-b8a951575ff8","27801946-6032-4831-abb6-b2d3aa37d7d5","1516b3ec-246b-45ee-8e63-5e527319363c"],"afters":[{"name":"batchWriteBackDatas","status":"passed","stage":"finished","description":"","start":1583895801800,"stop":1583895802091}]}
