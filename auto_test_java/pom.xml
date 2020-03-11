@@ -24,8 +24,7 @@
             <groupId>org.testng</groupId>
             <artifactId>testng</artifactId>
             <version>7.1.0</version>
-            <scope>test</scope>
-        </dependency>
+         </dependency>
 
         <!--操作excel的开源框架-->
         <dependency>
